@@ -9,8 +9,13 @@ This GitHub repository contains two Jupyter notebooks of data cleaning on two di
 The data cleaning process is carried out using Python. It covers various data cleaning tasks, including:
 
   Handling missing values
+  
   Data type conversions
+  
   Removing duplicates
+  
   Renaming columns
+  
   Handling outliers
+  
   Standardizing data
